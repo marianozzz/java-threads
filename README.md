@@ -1,2 +1,2 @@
 # java-threads
-Thread en java
+Threads en java
